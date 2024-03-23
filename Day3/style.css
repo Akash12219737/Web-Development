@@ -1,0 +1,48 @@
+
+
+   /*1. element*/
+   h1{
+    color: red;
+    font-size: 50px;
+} 
+
+/*2.  id selector*/
+#first-heading{
+color: royalblue;
+}
+
+/*3. class attribute*/
+.brown{
+color: brown;
+font-size: 40px;
+}
+.box{
+    width: 400px;
+    height: 400px;
+    background-color: purple;
+    padding: 28px;
+}
+.rectangle{
+    width: 400px;
+    height: 50px;
+    border: 2px solid black ;
+    margin: 10px 0;
+    /*margin-top: 10px;      this is also method to define top bottom and left right
+    margin-bottom: 10px;*/
+    margin: 10px 24px 10px 20px;
+    border-radius: 10px;
+}
+
+.square{
+    height: 50px;
+    border: 2px solid black ;
+    margin: 10px 0;
+}
+
+p{
+    font-size: 2em;
+}
+
+#red-color{
+    color: red;
+}
