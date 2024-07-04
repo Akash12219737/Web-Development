@@ -1,0 +1,50 @@
+.preview{
+    width: 250px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: top;
+}
+.profile{
+    width: 150px;
+}
+.cat-profile{
+    width: 250px;
+    margin-top: 10px;
+}
+.dog{
+    width: 30px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 10px;
+    
+
+}
+.mutual{
+    display: inline-block;
+    vertical-align: top;
+}
+.button{
+    margin-top: 15px;
+    background-color: rgb(80, 119, 211);
+    border: none;
+    padding-left: 15px ;
+    padding-right: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-weight: bold;
+    color: white;
+    border-radius: 6px;
+    margin: 10px;
+    vertical-align: text-bottom;
+}
+.name{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.container{
+    display: flex;
+    justify-content: flex-start;
+
+}
